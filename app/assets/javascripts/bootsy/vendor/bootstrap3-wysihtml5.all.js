@@ -6939,7 +6939,7 @@ wysihtml5.dom.replaceWithChildNodes = function(node) {
         "allowtransparency":  "true",
         "frameborder":        0,
         "width":              0,
-        "height":             300,
+        "height":             500,
         "marginwidth":        0,
         "marginheight":       0
       }).on(iframe);
